@@ -1,6 +1,7 @@
 package com.qa.dfeswproject.entities;
 
 import java.time.LocalDate;
+import java.util.Objects;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -98,6 +99,24 @@ public class Camper {
 	public void setNoOfNights(int noOfNights) {
 		this.noOfNights = noOfNights;
 	}
-	
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(arrivalDate, email, id, lastName, noOfNights, unit);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Camper other = (Camper) obj;
+		return Objects.equals(arrivalDate, other.arrivalDate) && Objects.equals(email, other.email) && id == other.id
+				&& Objects.equals(lastName, other.lastName) && noOfNights == other.noOfNights
+				&& Objects.equals(unit, other.unit);
+	}
 	
 }
