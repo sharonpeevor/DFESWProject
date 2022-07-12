@@ -2,6 +2,7 @@ package com.qa.dfeswproject.controllers;
 
 import java.util.List;
 
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -37,8 +38,13 @@ public class CamperController {
 		return this.service.readById(id);
 	}
 	
-	@PutMapping("update/{id}")
+	@PutMapping("/update/{id}")
 	public Camper update(@PathVariable long id, @RequestBody Camper camper) {
 		return this.service.update(id, camper);
+	}
+	
+	@DeleteMapping("/delete/{id}")
+	public boolean delete(@PathVariable long id) {
+		return this.service.delete(id);
 	}
 }
