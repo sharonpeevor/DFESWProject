@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.qa.dfeswproject.entities.Camper;
+import com.qa.dfeswproject.services.CamperService;
 
 @RestController
 @RequestMapping("/camper")
