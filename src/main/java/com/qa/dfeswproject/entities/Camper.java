@@ -1,6 +1,5 @@
 package com.qa.dfeswproject.entities;
 
-import java.time.LocalDate;
 import java.util.Objects;
 
 import javax.persistence.Column;
@@ -26,14 +25,14 @@ public class Camper {
 	private String unit;
 	
 	@Column(nullable = false)
-	private LocalDate arrivalDate;
+	private String arrivalDate;
 	
 	@Column(nullable = false)
 	private int noOfNights;
 
 	public Camper() {}
 
-	public Camper(String lastName, String email, String unit, LocalDate arrivalDate, int noOfNights) {
+	public Camper(String lastName, String email, String unit, String arrivalDate, int noOfNights) {
 		super();
 		this.lastName = lastName;
 		this.email = email;
@@ -42,7 +41,7 @@ public class Camper {
 		this.noOfNights = noOfNights;
 	}
 
-	public Camper(long id, String lastName, String email, String unit, LocalDate arrivalDate, int noOfNights) {
+	public Camper(long id, String lastName, String email, String unit, String arrivalDate, int noOfNights) {
 		super();
 		this.id = id;
 		this.lastName = lastName;
@@ -84,11 +83,11 @@ public class Camper {
 		this.unit = unit;
 	}
 
-	public LocalDate getArrivalDate() {
+	public String getArrivalDate() {
 		return arrivalDate;
 	}
 
-	public void setArrivalDate(LocalDate arrivalDate) {
+	public void setArrivalDate(String arrivalDate) {
 		this.arrivalDate = arrivalDate;
 	}
 
