@@ -1,5 +1,8 @@
 package com.qa.dfeswproject.controllers;
 
+import java.util.List;
+
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -20,5 +23,10 @@ public class CamperController {
 	@PostMapping("/create")
 	public Camper create(@RequestBody Camper camper) {
 		return this.service.create(camper);
+	}
+	
+	@GetMapping("/readAll")
+	public List<Camper> readAll(){
+		return this.service.readAll();
 	}
 }
