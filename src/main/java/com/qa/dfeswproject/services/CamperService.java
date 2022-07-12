@@ -38,4 +38,10 @@ public class CamperService {
 		
 		return this.repo.saveAndFlush(existing);
 	}
+	
+	public boolean delete(long id) {
+		this.repo.deleteById(id);
+		
+		return !this.repo.existsById(id);
+	}
 }
