@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.stereotype.Service;
 
 import com.qa.dfeswproject.entities.Camper;
+import com.qa.dfeswproject.repos.CamperRepo;
 
 @Service
 public class CamperService {
