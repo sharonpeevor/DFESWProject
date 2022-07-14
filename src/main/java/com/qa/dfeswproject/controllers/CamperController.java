@@ -39,6 +39,11 @@ public class CamperController {
 		return this.service.readById(id);
 	}
 	
+	@GetMapping("/readByLastName/{lastName}")
+	public List<Camper> readByLastName(@PathVariable String lastName) {
+		return this.service.readByLastName(lastName);
+	}
+	
 	@PutMapping("/update/{id}")
 	public Camper update(@PathVariable long id, @RequestBody Camper camper) {
 		return this.service.update(id, camper);

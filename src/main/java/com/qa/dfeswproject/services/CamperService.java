@@ -28,6 +28,10 @@ public class CamperService {
 		return this.repo.findById(id).get();
 	}
 	
+	public List<Camper> readByLastName(String lastName) {
+		return this.repo.findCamperByLastName(lastName);
+	}
+	
 	public Camper update(long id, Camper camper) {
 		Camper existing = this.repo.findById(id).get();
 		
