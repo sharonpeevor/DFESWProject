@@ -72,12 +72,14 @@ public class CamperControllerTest {
 	
 	@Test
 	public void readByLastName() throws Exception {
+		List<Camper> output = new ArrayList<>();
 		Camper entry = new Camper(1L, "Peevor", "shazpeevor@hotmail.com", "campervan", "16/07/22", 3);
-		String entryAsJSON = this.mapper.writeValueAsString(entry);
+		output.add(entry);
+		String outputAsJSON = mapper.writeValueAsString(output);
 		
 		mvc.perform(get("/camper/readByLastName/Peevor")
 				.contentType(MediaType.APPLICATION_JSON))
-				.andExpect(content().json(entryAsJSON));
+				.andExpect(content().json(outputAsJSON));
 	}
 	
 	@Test
