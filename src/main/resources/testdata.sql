@@ -1,0 +1,1 @@
+INSERT INTO `camper`(`last_name`, `email`, `unit`, `arrival_date`, `no_of_nights`) VALUES ('Peevor', 'shazpeevor@hotmail.com', 'campervan', '16/07/22', 3);
