@@ -12,5 +12,4 @@ public interface CamperRepo extends JpaRepository<Camper, Long> {
 
 	List<Camper> findCamperByLastName(String lastName);
 	
-	List<Camper> findCamperByLastNameAndNoOfNights(String lastName, int noOfNights); 
 }
