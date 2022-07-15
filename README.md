@@ -2,7 +2,7 @@
 
 ### **o	Why are we doing this?**
 
-The overall objective of the project is to create a Spring Boot API, with utilisation of supporting tools, methodologies, and technologies, that encapsulates all fundamental and practical modules we have been taught during the bootcamp. It demonstrates our knowledge and learning from the seven weeks of teaching and it is great to be able to combine the various topics to create an API. For my project, I chose a campsite booking system, as I have a campervan and love going away in it with my dog.
+The overall objective of the project is to create a Spring Boot API, with utilisation of supporting tools, methodologies, and technologies, that encapsulates all fundamental and practical modules we have been taught during the bootcamp. It demonstrates our knowledge and learning from the seven weeks of teaching and it is great to be able to combine the various topics to create an API. For my project, I chose a campsite booking system, as I have a campervan and love going away with my dog.
 
 ### **o	How I expected the challenge to go**
 
@@ -56,7 +56,8 @@ https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/MySQL%20Wor
 
 ### **o	Screenshot of your test results, including coverage report**
 
-JUnit test results: 
+JUnit test results: https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/JUnit%20test%20screenshot.jpg
+Coverage report: 
 
 ### **o	Link to Jira Board**
 
