@@ -51,13 +51,12 @@ https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20s
 
 
 ### **o	Screenshots of your database to prove that data is being persisted**
-
+https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/MySQL%20Workbench%20screenshot.jpg
 
 
 ### **o	Screenshot of your test results, including coverage report**
 
-Here is the link to screenshots of my JUnit tests and coverage report:
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/JUnit%20test%20and%20coverage%20report.docx
+JUnit test results: 
 
 ### **o	Link to Jira Board**
 
