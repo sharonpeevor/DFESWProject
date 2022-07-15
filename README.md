@@ -15,6 +15,12 @@ The project has gone really well, I have closely interacted with my Jira board a
 ### **o	Possible improvements for future revisions of the project**
 
 
+
+
+
+
+
+
 ### **o	Screenshots showing your postman requests and the output from the API**
 
 Here is the link to my Postman screenshots:
@@ -22,6 +28,8 @@ https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20s
 
 ### **o	Screenshots of your database to prove that data is being persisted**
 
+Here is the link to screenshots of my database from MySQL Workbench:
+https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/MySQL%20Workbench%20screenshots%20to%20show%20data%20is%20being%20persisted.docx
 
 ### **o	Screenshot of your test results, including coverage report**
 
