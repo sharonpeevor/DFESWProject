@@ -24,55 +24,54 @@ The project has gone really well, I have closely interacted with my Jira board a
 ### **o	Screenshots showing your postman requests and the output from the API**
 
 **Create method:**
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Create%20method%201.jpg
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Create%20method%202.jpg
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Create%20method%203.jpg
+[Screenshot 1](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Create%20method%201.jpg)
+[Screenshot 2](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Create%20method%202.jpg)
+[Screenshot 3](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Create%20method%203.jpg)
 
 **ReadAll method:**
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20ReadAll%20method%201.jpg
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20ReadAll%20method%202.jpg
+[Screenshot 1](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20ReadAll%20method%201.jpg)
+[Screenshot 2](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20ReadAll%20method%202.jpg)
 
 **ReadById method:**
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20ReadByID%20method.jpg
+[Screenshot 1](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20ReadByID%20method.jpg)
 
 **ReadByLastName method:**
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20ReadByLastName%20method.jpg
+[Screenshot 1](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20ReadByLastName%20method.jpg)
 
 **Update method:**
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Update%20method%201.jpg
+[Screenshot 1](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Update%20method%201.jpg)
 ReadAll to check update method: 
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Update%20method%202.jpg
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Update%20method%203.jpg
+[Screenshot 2](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Update%20method%202.jpg)
+[Screenshot 3](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Update%20method%203.jpg)
 
 **Delete method:**
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Delete%20method%201.jpg
+[Screenshot 1](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Delete%20method%201.jpg)
 ReadAll to check delete method:
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Delete%20method%202.jpg
+[Screenshot 2](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Delete%20method%202.jpg)
 
 
 ### **o	Screenshots of your database to prove that data is being persisted**
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/MySQL%20Workbench%20screenshot.jpg
+[MySQL Workbench screenshot](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/MySQL%20Workbench%20screenshot.jpg)
 
 
 ### **o	Screenshot of your test results, including coverage report**
 
-JUnit test results: https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/JUnit%20test%20screenshot.jpg
-Coverage report: https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Coverage%20report.jpg
+[JUnit test results](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/JUnit%20test%20screenshot.jpg)
+[Coverage report](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Coverage%20report.jpg)
 
 
 ### **o	Link to Jira Board**
 
-Here is the link to my Jira board: https://sharon-peevor.atlassian.net/jira/software/projects/DFES/boards/3
+[Jira board](https://sharon-peevor.atlassian.net/jira/software/projects/DFES/boards/3)
 
 
 ### **o	A completed risk assessment in .pdf format**
 
-Here is the link to my risk assessment: https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Risk%20Assessment%20for%20Project.pdf
+[Risk assessment](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Risk%20Assessment%20for%20Project.pdf)
 
 
 ### **o	Swagger API documentation**
 
-Screenshots:
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Swagger%20API%20documentation%20screenshot%201.jpg
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Swagger%20API%20documentation%20screenshot%202.jpg
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Swagger%20API%20documentation%20screenshot%203.jpg
+[Screenshot 1](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Swagger%20API%20documentation%20screenshot%201.jpg)
+[Screenshot 2](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Swagger%20API%20documentation%20screenshot%202.jpg)
+[Screenshot 3](https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Swagger%20API%20documentation%20screenshot%203.jpg)
