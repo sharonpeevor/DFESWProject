@@ -73,4 +73,5 @@ Here is the link to my risk assessment: https://github.com/sharonpeevor/DFESWPro
 ### **o	Swagger API documentation**
 
 Screenshots:
+https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Swagger%20API%20documentation%20screenshot%201.jpg
 
