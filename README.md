@@ -23,8 +23,8 @@ The project has gone really well, I have closely interacted with my Jira board a
 
 ### **o	Screenshots showing your postman requests and the output from the API**
 
-Here is the link to my Postman screenshots:
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshots%20testing%20CRUD%20methods.docx
+Create method:
+
 
 ### **o	Screenshots of your database to prove that data is being persisted**
 
