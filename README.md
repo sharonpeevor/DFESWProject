@@ -25,6 +25,8 @@ https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20s
 
 ### **o	Screenshot of your test results, including coverage report**
 
+Here is the link to screenshots of my JUnit tests and coverage report:
+https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/JUnit%20test%20and%20coverage%20report.docx
 
 ### **o	Link to Jira Board**
 
