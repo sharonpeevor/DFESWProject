@@ -36,6 +36,9 @@ https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20s
 https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20ReadByID%20method.jpg
 
 **ReadByLastName method:**
+https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20ReadByLastName%20method.jpg
+
+**Update method:**
 
 
 ### **o	Screenshots of your database to prove that data is being persisted**
