@@ -57,9 +57,15 @@ https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/MySQL%20Wor
 ### **o	Screenshot of your test results, including coverage report**
 
 JUnit test results: https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/JUnit%20test%20screenshot.jpg
-Coverage report: 
+Coverage report: https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Coverage%20report.jpg
+
 
 ### **o	Link to Jira Board**
 
-Here is the link to my Jira board:
-https://sharon-peevor.atlassian.net/jira/software/projects/DFES/boards/3
+Here is the link to my Jira board: https://sharon-peevor.atlassian.net/jira/software/projects/DFES/boards/3
+
+
+### **o	A completed risk assessment in .pdf format**
+
+Here is the link to my risk assessment: 
+o	Swagger API documentation.
