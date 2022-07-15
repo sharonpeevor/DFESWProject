@@ -23,9 +23,12 @@ The project has gone really well, I have closely interacted with my Jira board a
 
 ### **o	Screenshots showing your postman requests and the output from the API**
 
-Create method:
+**Create method:**
 https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Create%20method%201.jpg
 https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Create%20method%202.jpg
+https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Create%20method%203.jpg
+
+**ReadAll method:**
 
 
 ### **o	Screenshots of your database to prove that data is being persisted**
