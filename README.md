@@ -30,6 +30,9 @@ https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20s
 
 **ReadAll method:**
 https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20ReadAll%20method%201.jpg
+https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20ReadAll%20method%202.jpg
+
+**ReadById method:**
 
 
 ### **o	Screenshots of your database to prove that data is being persisted**
