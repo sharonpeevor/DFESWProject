@@ -42,6 +42,9 @@ https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20s
 https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Update%20method%201.jpg
 ReadAll to check update method: 
 https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Update%20method%202.jpg
+https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Update%20method%203.jpg
+
+**Delete method:**
 
 
 ### **o	Screenshots of your database to prove that data is being persisted**
