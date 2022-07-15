@@ -67,5 +67,10 @@ Here is the link to my Jira board: https://sharon-peevor.atlassian.net/jira/soft
 
 ### **o	A completed risk assessment in .pdf format**
 
-Here is the link to my risk assessment: 
-o	Swagger API documentation.
+Here is the link to my risk assessment: https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Risk%20Assessment%20for%20Project.pdf
+
+
+### **o	Swagger API documentation**
+
+Screenshots:
+
