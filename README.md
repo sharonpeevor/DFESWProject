@@ -47,12 +47,12 @@ https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20s
 **Delete method:**
 https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Delete%20method%201.jpg
 ReadAll to check delete method:
+https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshot%20Delete%20method%202.jpg
 
 
 ### **o	Screenshots of your database to prove that data is being persisted**
 
-Here is the link to screenshots of my database from MySQL Workbench:
-https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/MySQL%20Workbench%20screenshots%20to%20show%20data%20is%20being%20persisted.docx
+
 
 ### **o	Screenshot of your test results, including coverage report**
 
