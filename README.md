@@ -15,16 +15,28 @@ The project has gone really well, I have closely interacted with my Jira board a
 ### **o	Possible improvements for future revisions of the project**
 
 
+
+
+
+
+
+
 ### **o	Screenshots showing your postman requests and the output from the API**
 
-
+Here is the link to my Postman screenshots:
+https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/Postman%20screenshots%20testing%20CRUD%20methods.docx
 
 ### **o	Screenshots of your database to prove that data is being persisted**
 
+Here is the link to screenshots of my database from MySQL Workbench:
+https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/MySQL%20Workbench%20screenshots%20to%20show%20data%20is%20being%20persisted.docx
 
 ### **o	Screenshot of your test results, including coverage report**
 
+Here is the link to screenshots of my JUnit tests and coverage report:
+https://github.com/sharonpeevor/DFESWProject/blob/main/documentation/JUnit%20test%20and%20coverage%20report.docx
 
 ### **o	Link to Jira Board**
 
-Here is the link to my Jira board: https://sharon-peevor.atlassian.net/jira/software/projects/DFES/boards/3
+Here is the link to my Jira board:
+https://sharon-peevor.atlassian.net/jira/software/projects/DFES/boards/3
